@@ -3,8 +3,7 @@
 # Hi, I'm Lakshmi 👋
 
 I am a computational biologist and AI/ML scientist with a simple conviction: **messy biological data holds the answers to some of medicine's hardest questions** — and the right tools can unlock them.
-
-I build scalable computational systems that transform high-dimensional biology into actionable insight for biologists and clinicians.
+I create scalable computational systems that transform high-dimensional biology into actionable insight for biologists and clinicians.
 
 ---
 
@@ -17,11 +16,10 @@ I design and develop reproducible, interpretable, and scalable analysis systems 
 - **Phenotype stratification & systems biology models**  
 - **Cloud-native, reproducible bioinformatics workflows**
 
-My work bridges academic rigor with industry-grade deployment and reproducibility.
 
 **Open-Source Bioinformatics Tools**
 
-I am building modular, community-ready workflows and platforms to accelerate translational discovery:
+I am in the process of building modular, community-ready workflows and platforms to accelerate translational discovery:
 
 - End-to-end target discovery pipelines  
 - Reproducible ML evaluation templates for biological datasets  
