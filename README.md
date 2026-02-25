@@ -2,7 +2,7 @@
 
 # Hi, I'm Lakshmi 👋
 
-I'm a computational biologist and AI/ML scientist with a simple but deep conviction: **messy biological data holds the answers to some of medicine's hardest questions** — and the right tools can unlock them.
+I am a computational biologist and AI/ML scientist with a simple conviction: **messy biological data holds the answers to some of medicine's hardest questions** — and the right tools can unlock them.
 
 Over the past 20 years, I've worked at the intersection of biology, physics, and data science — moving from academic research labs to biotech industry — always driven by the same goal: building algorithms and platforms that help scientists and clinicians see patterns where there was once only noise.
 
