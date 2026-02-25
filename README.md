@@ -4,25 +4,41 @@
 
 I am a computational biologist and AI/ML scientist with a simple conviction: **messy biological data holds the answers to some of medicine's hardest questions** — and the right tools can unlock them.
 
-Over the past 20 years, I've worked at the intersection of biology, physics, and data science — moving from academic research labs to biotech industry — always driven by the same goal: building algorithms and platforms that help scientists and clinicians see patterns where there was once only noise.
+I build scalable computational systems that transform high-dimensional biology into actionable insight for biologists and clinicians.
 
 ---
 
 ## 🔬 What I Work On
 
-My work lives at the crossroads of several fields:
+I design and develop reproducible, interpretable, and scalable analysis systems for:
 
-**Multi-Omics Integration & Systems Biology**
-I integrate RNA-seq, single-cell RNA-seq, ChIP-seq, proteomics, GWAS, and metabolomics data to build systems-level views of disease. I believe no single data type tells the whole story — the magic is in the connections.
+- **Multi-omics integration** — RNA-seq, single-cell, proteomics, GWAS/QTL, and metabolomics  
+- **Target identification & prioritization** — evidence synthesis + ML ranking  
+- **Phenotype stratification & systems biology models**  
+- **Cloud-native, reproducible bioinformatics workflows**
 
-**AI/ML for Drug Discovery**
-I design and deploy machine learning platforms — including large-scale target discovery engines — that combine internal experimental data with public genomic, genetic, and clinical resources to prioritize therapeutic targets in cardiometabolic diseases, neuroscience, and hepatology.
+My work bridges academic rigor with industry-grade deployment and reproducibility.
 
 **Open-Source Bioinformatics Tools**
-Science moves faster when tools are shared. I build reproducible, well-documented pipelines and platforms designed to be used, adapted, and improved by the broader community. If you're a scientist wrestling with complex biological data, you're in the right place.
+
+I am building modular, community-ready workflows and platforms to accelerate translational discovery:
+
+- End-to-end target discovery pipelines  
+- Reproducible ML evaluation templates for biological datasets  
+- Standardized scRNA-seq and multi-data integration workflows  
+- Knowledge-integration frameworks for evidence-based prioritization
+
+These tools are designed to help scientists move from data → hypothesis → validation.
 
 ---
 
+## 🧠 Current Focus
+
+- Interpretable ML for target prioritization  
+- Modular, reusable computational infrastructure  
+- Scalable multi-dataset evidence integration  
+- Translational genomics and precision medicine\
+  
 ## 🧬 Research Areas
 
 - 🫀 Cardiometabolic diseases & obesity
