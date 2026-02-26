@@ -30,7 +30,7 @@ These tools are designed to help scientists move from data → hypothesis → va
 
 ---
 
-## 🧠 Current Focus
+## Current Focus
 
 - Interpretable ML for target prioritization  
 - Modular, reusable computational infrastructure  
