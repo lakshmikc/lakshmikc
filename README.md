@@ -2,8 +2,8 @@
 
 # Hi, I'm Lakshmi 👋
 
-I am a computational biologist and AI/ML scientist with a simple conviction: **messy biological data holds the answers to some of medicine's hardest questions** — and the right tools can unlock them.
-I create scalable computational systems that transform high-dimensional biology into actionable insight for biologists and clinicians.
+I am a computational biologist and AI/ML scientist with a simple conviction: **messy biological data holds the answers to some of medicine's hardest questions**
+And the right tools can unlock them.
 
 ---
 
