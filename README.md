@@ -54,6 +54,13 @@ These tools are designed to help scientists move from data → hypothesis → va
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmikc&layout=compact&theme=calm&hide_border=true)
 
 ---
+## 🛠️ PLATFORMS 
+●	LexGPT — AI-driven therapeutic target discovery platform integrating genomic, phenotypic, and clinical datasets
+●	LexMission — Cloud-based multi-omics bioinformatics workflow for target prioritization (internal E2E platform)
+●	SMART-3seq — Single-cell RNA-seq analysis pipeline (published workflow)
+●	COMPACT — Comparative gene expression analysis framework for high-throughput genomic data (published)
+●	CompleteMOTIFs — Transcription factor binding motif discovery platform (published)
+
 
 ## 🛠️ Languages & Tools
 
