@@ -55,13 +55,13 @@ These tools are designed to help scientists move from data → hypothesis → va
 
 ---
 ## 🛠️ PLATFORMS 
-●	LexGPT — AI-driven therapeutic target discovery platform integrating genomic, phenotypic, and clinical datasets
-●	LexMission — Cloud-based multi-omics bioinformatics workflow for target prioritization (internal E2E platform)
-●	SMART-3seq — Single-cell RNA-seq analysis pipeline (published workflow)
-●	COMPACT — Comparative gene expression analysis framework for high-throughput genomic data (published)
-●	CompleteMOTIFs — Transcription factor binding motif discovery platform (published)
+- ●	LexGPT — AI-driven therapeutic target discovery platform integrating genomic, phenotypic, and clinical datasets
+- ●	LexMission — Cloud-based multi-omics bioinformatics workflow for target prioritization (internal E2E platform)
+- ●	SMART-3seq — Single-cell RNA-seq analysis pipeline (published workflow)
+- ●	COMPACT — Comparative gene expression analysis framework for high-throughput genomic data (published)
+- ●	CompleteMOTIFs — Transcription factor binding motif discovery platform (published)
 
-
+---
 ## 🛠️ Languages & Tools
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
