@@ -39,6 +39,7 @@ These tools are designed to help scientists move from data → hypothesis → va
   
 ## 🧬 Research Areas
 
+-    Womens' Health
 - 🫀 Cardiometabolic diseases & obesity
 - 🧠 Neuroscience & cardiac neurobiology  
 - 🫁 Liver disease & hepatology
